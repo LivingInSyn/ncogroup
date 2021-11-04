@@ -1,7 +1,8 @@
 phrases = [
     "Sophisticated predictive purpose built insights proactively protect against unknown/advanced threats",
     "Machine learning based proactive insight solutions",
-    "Real time machine learning thwarts next-gen threats"
+    "Real time machine learning thwarts next-gen threats",
+    "ML driven react data pipelines"
 ]
 
 function setText(){
